@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Tarun Benakanakonda
 
-<!--
-**tarunmb/tarunmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. in Information Science & Engineering  
+🔬 Aspiring Data Scientist / Analyst  
+📍 Bangalore, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+🔹 Analyze data to extract insights  
+🔹 Build predictive models (Logistic Regression, Random Forests, Clustering)  
+🔹 Clean, transform, and visualize datasets  
+🔹 Work with real-time video feeds and classification models
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Tools:** Jupyter Notebook, Git, VS Code  
+- **Big Data:** Hadoop  
+- **Visualization:** Tableau, Seaborn, Matplotlib
+
+---
+
+## 📂 Projects
+
+### 🔹 [Face Recognition System](https://github.com/tarunmb/Face-recognition-)  
+Real-time attendance system using OpenCV and Haar Cascades.
+
+### 🔹 [Loan Approval Prediction](https://github.com/tarunmb/Loan-predation-)  
+Logistic Regression-based classifier for loan approval status.
+
+### 🔹 [AI-Powered Student Behavior Analysis](https://github.com/tarunmb/-AI-Powered-Student-Behavior-Analysis-System)  
+Python-based system to monitor and classify student behavior trends.
+
+---
+
+## 📈 GitHub Stats
+
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunmb&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tarun-benakanakonda/)
+- 📧 tarunmb2003@gmail.com
