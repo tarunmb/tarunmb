@@ -43,3 +43,12 @@ Python-based system to monitor and classify student behavior trends.
 
 - [LinkedIn](https://www.linkedin.com/in/tarun-benakanakonda/)
 - 📧 tarunmb2003@gmail.com
+
+### 🧪 Tools & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
