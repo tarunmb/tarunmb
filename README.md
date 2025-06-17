@@ -38,11 +38,6 @@ Python-based system to monitor and classify student behavior trends.
 
 ---
 
-## 📈 GitHub Stats
-
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunmb&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
