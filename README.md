@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Tarun Benakanakonda
 
-🎓 B.E. in Information Science & Engineering  
-🔬 Aspiring Data Scientist / Analyst  
+🎓 B.E. in Information Science & Engineering   
 📍 Bangalore, India
 
 ---
