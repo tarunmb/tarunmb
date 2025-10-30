@@ -56,4 +56,9 @@ It features a simple, intuitive interface and serves as a perfect academic or be
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4EAA25?style=flat&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-FF6600?style=flat&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-1572B6?style=flat&logo=java&logoColor=white)
