@@ -35,7 +35,13 @@ Logistic Regression-based classifier for loan approval status.
 ### 🔹 [AI-Powered Student Behavior Analysis](https://github.com/tarunmb/-AI-Powered-Student-Behavior-Analysis-System)  
 Python-based system to monitor and classify student behavior trends.
 
+### 🔹 [School Management System using Java & MySQL](https://github.com/tarunmb/School-Management-System-using-Java)
+
+A **Java-based desktop application** built with **Swing / JavaFX** and **MySQL**, designed to efficiently manage school operations — including students, teachers, subjects, classes, exams, and marks.  
+It features a simple, intuitive interface and serves as a perfect academic or beginner-level project.
+
 ---
+
 
 
 ## 📫 Let's Connect
